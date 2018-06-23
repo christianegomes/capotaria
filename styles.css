@@ -1,10 +1,25 @@
 body{
     margin: 0;
+    font-family: sans-serif;
 }
 
 header{
     background-color: #ce0050;
     padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header div{
+    display: flex;
+}
+
+header div a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin: 0 5px;
 }
 
 h1{
@@ -30,6 +45,7 @@ h1{
     color: white;
     font-size: 40px;
     font-weight: bold;
+    margin: 30px;
 }
 
 .tombos{
