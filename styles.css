@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #ce0050;
+    padding: 15px;
+}
+
+h1{
+    margin: 0;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 42px;
+}
